@@ -5,7 +5,7 @@ services:
     environment:
       APP_HOST: gopeed_web_1
       APP_PORT: 9999
-  web:
+  gopeed:
     image: liwei2633/gopeed:v1.8.3@sha256:b28c797b6408d53d7803ccbc32649fc4ca8567c0d994a82bf8dfdf87f0765feb
     restart: on-failure
     stop_grace_period: 1m
