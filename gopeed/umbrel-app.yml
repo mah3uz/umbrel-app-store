@@ -1,7 +1,8 @@
 manifestVersion: 1
 id: mah3uz-gopeed
-category: media
 name: Gopeed
+category: Media
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/gopeed.png
 version: "1.8.0"
 tagline: A modern download manager that supports all platforms. Built with Golang and Flutter.
 description: >-
@@ -14,7 +15,6 @@ repo: https://github.com/GopeedLab/gopeed.git
 support: https://github.com/GopeedLab/gopeed.git/discussions
 port: 9999
 gallery: 
-  - https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/gopeed.png
   - https://raw.githubusercontent.com/GopeedLab/gopeed/main/_docs/img/banner.png
   - https://raw.githubusercontent.com/GopeedLab/gopeed/main/_docs/img/ui-demo.png
 path: ""
