@@ -1,0 +1,24 @@
+manifestVersion: 1
+id: gopeed
+category: media
+name: Gopeed
+version: "1.8.0"
+tagline: A modern download manager that supports all platforms. Built with Golang and Flutter.
+description: >-
+  Gopeed (full name Go Speed), a high-speed downloader developed by Golang + Flutter, supports (HTTP, BitTorrent, Magnet) protocol, and supports all platforms. In addition to basic download functions, Gopeed is also a highly customizable downloader that supports implementing more features through integration with APIs or installation and development of extensions.
+releaseNotes: ""
+developer: Levi
+website: https://gopeed.com
+dependencies: []
+repo: https://github.com/GopeedLab/gopeed.git
+support: https://github.com/GopeedLab/gopeed.git/discussions
+port: 9999
+gallery: 
+  - https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/gopeed.png
+  - https://raw.githubusercontent.com/GopeedLab/gopeed/main/_docs/img/banner.png
+  - https://raw.githubusercontent.com/GopeedLab/gopeed/main/_docs/img/ui-demo.png
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+submitter: Mahfuz
+submission: https://github.com/getumbrel/umbrel/pull/334
