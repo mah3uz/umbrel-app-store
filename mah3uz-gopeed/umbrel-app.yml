@@ -3,7 +3,7 @@ id: mah3uz-gopeed
 name: Gopeed
 category: Media
 icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/gopeed.png
-version: "1.8.0"
+version: "1.9.1"
 port: 9999
 tagline: A modern download manager that supports all platforms. Built with Golang and Flutter.
 description: >-
