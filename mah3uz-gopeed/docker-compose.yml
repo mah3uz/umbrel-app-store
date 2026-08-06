@@ -6,7 +6,7 @@ services:
       APP_HOST: mah3uz-gopeed_web_1
       APP_PORT: 9999
   web:
-    image: liwei2633/gopeed:v1.9.1@sha256:cc35b801f54a4e681abd67bc29a2939b939b6054b81ac477cc8fbceecdaad7f5
+    image: liwei2633/gopeed:v1.9.3@sha256:3ad6274077eb81282f0782efb9824783bb2f969c3a4ce966f0d959cc53c23eae
     restart: on-failure
     stop_grace_period: 1m
     environment:
